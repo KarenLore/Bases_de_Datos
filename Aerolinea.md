@@ -478,4 +478,4 @@ CREATE TABLE DetalleReserva (
 ```
 ![alt text](image.png)
 
-Entregado por: Karen Lorena Cristancho Caceres
+- Entregado por: Karen Lorena Cristancho Caceres
